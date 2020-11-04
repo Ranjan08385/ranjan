@@ -1,0 +1,25 @@
+.footer {
+  color: #fff;
+  height: 25vh;
+  text-align: center;
+  background-color: #0e2431;
+  padding: 3rem 0;
+}
+
+.footer__head {
+  margin-bottom: 40px;
+}
+
+.footer__socialIcons {
+  margin-bottom: 40px;
+}
+
+.footer__socialIcons > a {
+  color: #fff;
+  margin: 10px;
+  font-size: 20px;
+}
+
+.footer > p {
+  font-weight: bold;
+}

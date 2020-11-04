@@ -1,0 +1,101 @@
+.contact {
+  /* border: 1px solid red; */
+  height: 90vh;
+  padding: 20px;
+}
+
+.contact__head {
+  margin: 20px;
+  text-align: center;
+}
+
+.contact__head > h1 {
+  color: #4070f4;
+}
+
+.contact__form {
+  /* border: 1px solid red; */
+  width: 100%;
+  margin: auto;
+  margin-top: 50px;
+}
+
+@media only screen and (min-width: 540px) {
+  .contact__form {
+    width: 60%;
+  }
+}
+
+.contact__nameSec {
+  margin: 10px;
+}
+
+.contact__nameField {
+  width: 92%;
+  margin-top: 20px;
+  padding: 15px;
+  outline: none;
+  border-radius: 10px;
+  border: 1.5px solid #0e2431;
+}
+
+.contact__emailSec {
+  margin: 10px;
+}
+
+.contact__emailField {
+  width: 92%;
+  margin-top: 20px;
+  padding: 15px;
+  outline: none;
+  border-radius: 10px;
+  border: 1.5px solid #0e2431;
+}
+
+.contact__textAreaSec {
+  margin: 10px;
+}
+
+.contact__textAreaField {
+  width: 92%;
+  height: 140px;
+  margin-top: 20px;
+  padding: 15px;
+  outline: none;
+  border-radius: 10px;
+  border: 1.5px solid #0e2431;
+}
+
+.contact__buttonSec {
+  margin: 10px;
+  margin-top: 20px;
+  text-align: end;
+}
+
+.contact__button {
+  width: 30%;
+  padding: 15px;
+  color: #ffffff;
+  background: #4070f4;
+  border: none;
+  outline: none;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.contact__button:hover {
+  box-shadow: 0px 5px 20px rgba(0, 0, 0, 0.2);
+}
+
+@media only screen and (min-width: 1025px) {
+  .contact {
+    height: 84vh;
+  }
+  .contact__form {
+    width: 30%;
+    margin: auto;
+    margin-top: 50px;
+  }
+}
