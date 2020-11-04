@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ranjan/static/css/main.9da987ff.chunk.css",
+    "main.js": "/ranjan/static/js/main.3b7646e7.chunk.js",
+    "main.js.map": "/ranjan/static/js/main.3b7646e7.chunk.js.map",
+    "runtime-main.js": "/ranjan/static/js/runtime-main.265c2c65.js",
+    "runtime-main.js.map": "/ranjan/static/js/runtime-main.265c2c65.js.map",
+    "static/css/2.18fb2ca0.chunk.css": "/ranjan/static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.f6932d47.chunk.js": "/ranjan/static/js/2.f6932d47.chunk.js",
+    "static/js/2.f6932d47.chunk.js.map": "/ranjan/static/js/2.f6932d47.chunk.js.map",
+    "index.html": "/ranjan/index.html",
+    "precache-manifest.178b87360f297f1530acc5afab31ac61.js": "/ranjan/precache-manifest.178b87360f297f1530acc5afab31ac61.js",
+    "service-worker.js": "/ranjan/service-worker.js",
+    "static/css/2.18fb2ca0.chunk.css.map": "/ranjan/static/css/2.18fb2ca0.chunk.css.map",
+    "static/css/main.9da987ff.chunk.css.map": "/ranjan/static/css/main.9da987ff.chunk.css.map",
+    "static/js/2.f6932d47.chunk.js.LICENSE.txt": "/ranjan/static/js/2.f6932d47.chunk.js.LICENSE.txt",
+    "static/media/My_Resume_React.pdf": "/ranjan/static/media/My_Resume_React.ac9d3662.pdf",
+    "static/media/about.jpg": "/ranjan/static/media/about.cdfc72fd.jpg",
+    "static/media/profile.png": "/ranjan/static/media/profile.d78e1684.png",
+    "static/media/skills.jpg": "/ranjan/static/media/skills.80b296f1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.265c2c65.js",
+    "static/css/2.18fb2ca0.chunk.css",
+    "static/js/2.f6932d47.chunk.js",
+    "static/css/main.9da987ff.chunk.css",
+    "static/js/main.3b7646e7.chunk.js"
+  ]
+}
