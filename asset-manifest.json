@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ranjan/static/css/main.9da987ff.chunk.css",
-    "main.js": "/ranjan/static/js/main.3b7646e7.chunk.js",
-    "main.js.map": "/ranjan/static/js/main.3b7646e7.chunk.js.map",
+    "main.css": "/ranjan/static/css/main.423f9109.chunk.css",
+    "main.js": "/ranjan/static/js/main.803d808d.chunk.js",
+    "main.js.map": "/ranjan/static/js/main.803d808d.chunk.js.map",
     "runtime-main.js": "/ranjan/static/js/runtime-main.265c2c65.js",
     "runtime-main.js.map": "/ranjan/static/js/runtime-main.265c2c65.js.map",
-    "static/css/2.18fb2ca0.chunk.css": "/ranjan/static/css/2.18fb2ca0.chunk.css",
-    "static/js/2.f6932d47.chunk.js": "/ranjan/static/js/2.f6932d47.chunk.js",
-    "static/js/2.f6932d47.chunk.js.map": "/ranjan/static/js/2.f6932d47.chunk.js.map",
+    "static/css/2.1f820fe1.chunk.css": "/ranjan/static/css/2.1f820fe1.chunk.css",
+    "static/js/2.e8492cec.chunk.js": "/ranjan/static/js/2.e8492cec.chunk.js",
+    "static/js/2.e8492cec.chunk.js.map": "/ranjan/static/js/2.e8492cec.chunk.js.map",
     "index.html": "/ranjan/index.html",
-    "precache-manifest.178b87360f297f1530acc5afab31ac61.js": "/ranjan/precache-manifest.178b87360f297f1530acc5afab31ac61.js",
+    "precache-manifest.e9c260e19e75635597bbb01c25193c25.js": "/ranjan/precache-manifest.e9c260e19e75635597bbb01c25193c25.js",
     "service-worker.js": "/ranjan/service-worker.js",
-    "static/css/2.18fb2ca0.chunk.css.map": "/ranjan/static/css/2.18fb2ca0.chunk.css.map",
-    "static/css/main.9da987ff.chunk.css.map": "/ranjan/static/css/main.9da987ff.chunk.css.map",
-    "static/js/2.f6932d47.chunk.js.LICENSE.txt": "/ranjan/static/js/2.f6932d47.chunk.js.LICENSE.txt",
+    "static/css/2.1f820fe1.chunk.css.map": "/ranjan/static/css/2.1f820fe1.chunk.css.map",
+    "static/css/main.423f9109.chunk.css.map": "/ranjan/static/css/main.423f9109.chunk.css.map",
+    "static/js/2.e8492cec.chunk.js.LICENSE.txt": "/ranjan/static/js/2.e8492cec.chunk.js.LICENSE.txt",
     "static/media/My_Resume_React.pdf": "/ranjan/static/media/My_Resume_React.ac9d3662.pdf",
     "static/media/about.jpg": "/ranjan/static/media/about.cdfc72fd.jpg",
     "static/media/profile.png": "/ranjan/static/media/profile.d78e1684.png",
@@ -21,9 +21,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.265c2c65.js",
-    "static/css/2.18fb2ca0.chunk.css",
-    "static/js/2.f6932d47.chunk.js",
-    "static/css/main.9da987ff.chunk.css",
-    "static/js/main.3b7646e7.chunk.js"
+    "static/css/2.1f820fe1.chunk.css",
+    "static/js/2.e8492cec.chunk.js",
+    "static/css/main.423f9109.chunk.css",
+    "static/js/main.803d808d.chunk.js"
   ]
 }
