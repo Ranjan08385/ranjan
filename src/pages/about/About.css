@@ -1,12 +1,13 @@
 .about {
-  padding: 20px;
-  height: 84vh;
+  /* padding: 20px; */
+  height: 90vh;
   /* border: 1px solid blue; */
 }
 
 .about__head {
   margin: 20px;
   text-align: center;
+  /* border: 1px solid blue; */
 }
 
 .about__head > h1 {
@@ -20,6 +21,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  /* border: 1px solid blue; */
 }
 
 @media only screen and (min-width: 540px) {
@@ -83,6 +85,10 @@
 }
 
 @media only screen and (min-width: 1025px) {
+  .about {
+    padding: 20px;
+    height: 84vh;
+  }
   .about__imgAndText {
     width: 60%;
     flex-direction: row;

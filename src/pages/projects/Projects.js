@@ -1,17 +1,22 @@
-import React from 'react'
+import React, {useEffect} from 'react'
 import './Projects.css'
+import Aos from 'aos';
+import 'aos/dist/aos.css';
 import {motion} from 'framer-motion'
 import {projects, projectsHead, projectOne, projectTwo, projectThree} from './Animation'
 
 function Projects() {
+    useEffect(() => {
+        Aos.init({ duration: 2000 });
+    }, []);
     return (
        
             <motion.div variants={projects} initial="hidden" animate="visible" className="projects" id="projects">
-                <div className="projects__head">
+                <div data-aos="fade-down" className="projects__head">
                     <motion.h1 variants={projectsHead}>Projects</motion.h1>
                 </div>
                 <div className="projects__cardSections">
-                    <motion.div variants={projectOne} className="projects__card">
+                    <div data-aos="flip-left" variants={projectOne} className="projects__card">
                         <div className="projects__logo">
                             <h3>Money2India</h3>
                         </div>
@@ -24,9 +29,9 @@ function Projects() {
                                 maintaining same code.
                             </p>
                         </div>
-                    </motion.div>
+                    </div>
 
-                    <motion.div variants={projectTwo} className="projects__card">
+                    <div data-aos="zoom-in" variants={projectTwo} className="projects__card">
                         <div className="projects__logo">
                             <h3>Clinic Directory</h3>
                         </div>
@@ -40,9 +45,9 @@ function Projects() {
                                 information.
                             </p>
                         </div>
-                    </motion.div>
+                    </div>
 
-                    <motion.div variants={projectThree} className="projects__card">
+                    <div data-aos="flip-right" variants={projectThree} className="projects__card">
                         <div className="projects__logo">
                             <h3>Smart Voting System</h3>
                         </div>
@@ -53,7 +58,7 @@ function Projects() {
                                 Authentication mechanism for Online Voting System.
                             </p>
                         </div>
-                    </motion.div>
+                    </div>
                         
                 </div>
             </motion.div>

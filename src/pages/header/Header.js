@@ -1,7 +1,9 @@
-import React, {useState} from 'react';
+import React, {useEffect, useState} from 'react';
 import './Header.css';
 import { HashLink as Link} from "react-router-hash-link";
 import {motion} from 'framer-motion';
+import Aos from 'aos';
+import 'aos/dist/aos.css';
 // import { Link } from "react-scroll";
 
 function Header({mode, toggleMode, toggleMenu, showMenu}) {
@@ -11,6 +13,10 @@ function Header({mode, toggleMode, toggleMenu, showMenu}) {
     const [projects, setProjects] = useState(false);
     const [contact, setContact] = useState(false);
     // const [showMenu, setMenuToggle] = useState(false);
+
+    useEffect(() => {
+        Aos.init({ duration: 2000 });
+    }, []);
 
     const menuAnimate = {
         hidden: { 
@@ -56,6 +62,10 @@ function Header({mode, toggleMode, toggleMenu, showMenu}) {
     }
 
     const onClickHeaderLink = value => {
+        if(showMenu) {
+            toggleMenu();
+        }
+        
         if(value === 'Home') {
             setHome(true);
             setAbout(false);
