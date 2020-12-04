@@ -1,6 +1,6 @@
 .projects {
   /* border: 1px solid red; */
-  height: 100%;
+  height: 84vh;
   padding: 20px;
 }
 
@@ -33,6 +33,31 @@
 .projects__card:hover .projects__logo {
   background: #4070f4;
   /* transform: translateY(0); */
+}
+
+.swiper__parent {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper__title {
+  /* height: 40%; */
+  line-height: 8;
+  text-align: center;
+  background: #0e2431;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  /* border: 1px solid blue; */
+}
+
+.swiper__title > h3 {
+  color: #fff;
+}
+
+.swiper__desc {
+  /* height: 60%; */
+  padding: 25px;
+  /* border: 1px solid green; */
 }
 
 @media only screen and (min-width: 540px) {

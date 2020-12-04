@@ -21,9 +21,9 @@ function About() {
                     <div data-aos="fade-right" variants={aboutImag} className="about__img">
                         <img src={aboutImg} alt="" />
                     </div>
-                    <div data-aos="fade-left"  className="about__me">
-                        <h2 data-aos="fade-left" data-aos-delay="100" variants={aboutTextHead}>I'am Ranjan Moger</h2>
-                        <p data-aos="fade-left" data-aos-delay="300" variants={aboutText}>To work in an organization where I can use my skills and knowledge to deliver value added results that provides me job satisfaction and self development which help me achieve personal as well as organizational goals.</p>
+                    <div data-aos="zoom-in"  className="about__me">
+                        <h2 data-aos="zoom-in" data-aos-delay="100" variants={aboutTextHead}>I'am Ranjan Moger</h2>
+                        <p data-aos="zoom-in" data-aos-delay="200" variants={aboutText}>To work in an organization where I can use my skills and knowledge to deliver value added results that provides me job satisfaction and self development which help me achieve personal as well as organizational goals.</p>
                     </div>
                 </div>
             </motion.div>

@@ -82,7 +82,7 @@ function Skills() {
                         </div>
                         
                     </div>
-                    <div data-aos="fade-left" variants={skillsRight} className="skills__img">
+                    <div data-aos="zoom-in" variants={skillsRight} className="skills__img">
                         <img src={skillsImg} alt="" />
                     </div>
                 </div>
