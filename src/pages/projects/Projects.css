@@ -7,6 +7,7 @@
 .projects__head {
   margin: 20px;
   text-align: center;
+  margin-bottom: 20%;
 }
 
 .projects__head > h1 {
@@ -125,5 +126,8 @@
   }
   .projects__card {
     width: 300px;
+  }
+  .projects__head {
+    margin-bottom: 0;
   }
 }
