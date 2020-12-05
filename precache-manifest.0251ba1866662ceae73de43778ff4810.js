@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8edea561986758d5135faae9048921b0",
+    "revision": "c33648c673a87cf7c4a372723738d1e7",
     "url": "/ranjan/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ranjan/static/css/2.df073151.chunk.css"
   },
   {
-    "revision": "2378a32f76c3abf73264",
+    "revision": "f2b1a688ca6b8ab67915",
     "url": "/ranjan/static/css/main.e81c4d8a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ranjan/static/js/2.111f140d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2378a32f76c3abf73264",
-    "url": "/ranjan/static/js/main.cce210bb.chunk.js"
+    "revision": "f2b1a688ca6b8ab67915",
+    "url": "/ranjan/static/js/main.9054f4ba.chunk.js"
   },
   {
     "revision": "d2c62754110b751ce00f",

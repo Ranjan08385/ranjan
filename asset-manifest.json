@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ranjan/static/css/main.e81c4d8a.chunk.css",
-    "main.js": "/ranjan/static/js/main.cce210bb.chunk.js",
-    "main.js.map": "/ranjan/static/js/main.cce210bb.chunk.js.map",
+    "main.js": "/ranjan/static/js/main.9054f4ba.chunk.js",
+    "main.js.map": "/ranjan/static/js/main.9054f4ba.chunk.js.map",
     "runtime-main.js": "/ranjan/static/js/runtime-main.265c2c65.js",
     "runtime-main.js.map": "/ranjan/static/js/runtime-main.265c2c65.js.map",
     "static/css/2.df073151.chunk.css": "/ranjan/static/css/2.df073151.chunk.css",
     "static/js/2.111f140d.chunk.js": "/ranjan/static/js/2.111f140d.chunk.js",
     "static/js/2.111f140d.chunk.js.map": "/ranjan/static/js/2.111f140d.chunk.js.map",
     "index.html": "/ranjan/index.html",
-    "precache-manifest.a8c71c603a165fd57c19ed1a0c853eaa.js": "/ranjan/precache-manifest.a8c71c603a165fd57c19ed1a0c853eaa.js",
+    "precache-manifest.0251ba1866662ceae73de43778ff4810.js": "/ranjan/precache-manifest.0251ba1866662ceae73de43778ff4810.js",
     "service-worker.js": "/ranjan/service-worker.js",
     "static/css/2.df073151.chunk.css.map": "/ranjan/static/css/2.df073151.chunk.css.map",
     "static/css/main.e81c4d8a.chunk.css.map": "/ranjan/static/css/main.e81c4d8a.chunk.css.map",
@@ -24,6 +24,6 @@
     "static/css/2.df073151.chunk.css",
     "static/js/2.111f140d.chunk.js",
     "static/css/main.e81c4d8a.chunk.css",
-    "static/js/main.cce210bb.chunk.js"
+    "static/js/main.9054f4ba.chunk.js"
   ]
 }
