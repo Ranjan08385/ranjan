@@ -34,7 +34,7 @@ function App() {
       <div style={{ backgroundColor: mode ? '#000' : '#fff', width: '100%', height: '100%' }}>
         <Header mode={mode} toggleMode={() => toggleModes()} toggleMenu={() => toggleMenu()} showMenu={showMenu} />
         <div style={{ opacity: showMenu ? 0.5 : 1 }}>
-            <NavLink smooth activeClassName="active" to='/' exact component={Home} />
+            <NavLink smooth activeClassName="active" to='/ranjan/' exact component={Home} />
             <NavLink smooth activeClassName="active" to='/about' component={About} />         
             <NavLink smooth activeClassName="active" to='/skills' component={Skills} />           
             <NavLink smooth activeClassName="active" to='/projects' component={Projects} />         
