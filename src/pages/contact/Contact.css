@@ -20,6 +20,13 @@
   margin-top: 50px;
 }
 
+.contact__msg {
+  /* border: 1px solid #0e2431; */
+  text-align: center;
+  color: #0e2431;
+  font-weight: bold;
+}
+
 @media only screen and (min-width: 540px) {
   .contact__form {
     width: 60%;
