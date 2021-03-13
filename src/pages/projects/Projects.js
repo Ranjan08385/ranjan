@@ -22,27 +22,27 @@ SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
 
 const projectData = [
   {
+    title: "Activity Project",
+    description:
+      "This project is developed by using MERN stack. The user can able to create, edit and delete activity.",
+    link: "https://activity-tracker-project.netlify.app/",
+  },
+  {
     title: "Amazon Clone",
     description:
-      "This application is developed by using ReactJS library. The user can able to add items to the basket and can able to make the payment.",
+      "This application is developed by using ReactJS library. The user can able to add items to the basket and able to make the payment.",
     link: "https://clone-208f1.web.app/",
   },
   {
     title: "Money2India",
     description:
       "This project is done by using React Native Web Technology. It is actually a single base code project where we can build Web, android and iOS application by maintaining same code.",
-    link: null,
+    link: "https://money2india.icicibank.com/",
   },
   {
     title: "Clinic Directory",
     description:
       "This application is developed by using ReactJS library. Clinic directory will provide details about the hospital and doctors. The admin and privileged user can able to add/edit the clinical information.",
-    link: null,
-  },
-  {
-    title: "Smart Voting System",
-    description:
-      "This project is done by using Java platform. Here, i have implemented Face Recognition based Authentication mechanism for Online Voting System.",
     link: null,
   },
 ];

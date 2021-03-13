@@ -8,7 +8,6 @@
   top: 0;
   position: sticky;
   z-index: 100;
-  /* border: 1px solid red; */
 }
 
 .header__space {
@@ -25,6 +24,7 @@
 
 .header__logo > h3 {
   color: #0e2431;
+  font-size: 20px;
 }
 
 .header__linksStyle {
@@ -32,6 +32,7 @@
   color: #0e2431;
   font-weight: bold;
   text-decoration: none;
+  font-size: 18px;
 }
 
 .header__linksStyle:hover {
@@ -177,16 +178,22 @@
 }
 
 @media only screen and (min-width: 1025px) {
+  /* .header {
+    display: flex;
+    flex: 1;
+    border: 1px solid red;
+  } */
+
   .header__space {
-    flex: 0.3;
+    flex: 0;
   }
 
   .header__logo {
-    flex: 0.4;
+    flex: 0.2;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 0%;
+    margin-left: -2% !important;
   }
 
   .header__links {
