@@ -25,7 +25,7 @@ const projectData = [
     title: "Activity Project",
     description:
       "This project is developed by using MERN stack. The user can able to create, edit and delete activity.",
-    link: "https://activity-tracker-project.netlify.app/",
+    link: "https://activity-project.netlify.app/",
   },
   {
     title: "Amazon Clone",

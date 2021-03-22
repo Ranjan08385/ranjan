@@ -24,7 +24,7 @@
 
 .header__logo > h3 {
   color: #0e2431;
-  font-size: 20px;
+  /* font-size: 20px; */
 }
 
 .header__linksStyle {
@@ -32,7 +32,7 @@
   color: #0e2431;
   font-weight: bold;
   text-decoration: none;
-  font-size: 18px;
+  /* font-size: 18px; */
 }
 
 .header__linksStyle:hover {
@@ -193,7 +193,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: -2% !important;
+    margin-left: -3% !important;
   }
 
   .header__links {
