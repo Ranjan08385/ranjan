@@ -22,9 +22,15 @@ SwiperCore.use([Navigation, Pagination, Scrollbar, A11y]);
 
 const projectData = [
   {
+    title: "Resume Builder",
+    description:
+      "This application is developed by using MongoDB, Express, Reacts and NodeJS (MERN). The user can able to create and update resume and also user authentication added. ",
+    link: "https://build-your-resume.netlify.app/",
+  },
+  {
     title: "Activity Project",
     description:
-      "This project is developed by using MERN stack. The user can able to create, edit and delete activity.",
+      "This application is developed by using MongoDB, Express, Reacts and NodeJS (MERN). The user can able to create, edit and delete activity and also user authentication added.",
     link: "https://activity-project.netlify.app/",
   },
   {
