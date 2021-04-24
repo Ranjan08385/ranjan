@@ -136,3 +136,37 @@
     margin-bottom: 0;
   }
 }
+
+.projDetails {
+  margin: 10px;
+}
+
+.projDetails_title {
+  margin: 10px;
+  color: #0e2431;
+}
+
+.projDetails_img {
+  width: 240px;
+  height: 140px;
+  margin: 10px;
+  box-shadow: 0px 0px 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+.projDetails_linkdiv {
+  width: 100%;
+  text-align: center;
+  margin-top: 20px;
+}
+
+.projDetails_link {
+  text-decoration: none;
+  color: #4070f4;
+  font-weight: bold;
+  align-self: center;
+  outline: none;
+}
+
+.projDetails_link:hover {
+  text-decoration: underline;
+}
