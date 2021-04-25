@@ -1,10 +1,6 @@
 import React from "react";
 import "./Projects.css";
 
-const activity1 = require("../../images/Activity1.JPG");
-const activity2 = require("../../images/Activity2.JPG");
-const activity3 = require("../../images/Activity3.JPG");
-
 function ProjectDetails({ data }) {
   return (
     <div className="projDetails">
