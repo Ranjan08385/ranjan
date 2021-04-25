@@ -39,7 +39,18 @@ const mi1 = require("../../images/MI1.JPG");
 const mi2 = require("../../images/MI2.JPG");
 const mi3 = require("../../images/MI3.JPG");
 
+const hulu1 = require("../../images/Hulu1.JPG");
+const hulu2 = require("../../images/Hulu2.JPG");
+const hulu3 = require("../../images/Hulu3.JPG");
+
 const projectData = [
+  {
+    title: "Hulu Clone",
+    description:
+      "This application is developed by using Next JS and Tailwind CSS. The user can able to browse list of movies and TV shows. Server side render is implemented also it is responsive for mobile and ipad.",
+    link: "https://hulu-clone-lake.vercel.app/",
+    images: [hulu1, hulu2, hulu3],
+  },
   {
     title: "Resume Builder",
     description:
@@ -89,7 +100,6 @@ function Projects() {
   const onOpenModal = (data) => {
     setOpen(true);
     setData(data);
-    console.log(data);
   };
   const onCloseModal = () => setOpen(false);
   return (
