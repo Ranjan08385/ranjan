@@ -54,14 +54,14 @@ const projectData = [
   {
     title: "Resume Builder",
     description:
-      "This application is developed by using MongoDB, Express, Reacts and NodeJS (MERN). The user can able to create and update resume and also user authentication added. ",
+      "This application is developed by using MongoDB, Express, ReactJs and NodeJS (MERN). The user can able to create and update resume and also user authentication added. ",
     link: "https://build-your-resume.netlify.app/",
     images: [rb1, rb2, rb3],
   },
   {
     title: "Activity Project",
     description:
-      "This application is developed by using MongoDB, Express, Reacts and NodeJS (MERN). The user can able to create, edit and delete activity and also user authentication added.",
+      "This application is developed by using MongoDB, Express, ReactJs and NodeJS (MERN). The user can able to create, edit and delete activity and also user authentication added.",
     link: "https://activity-project.netlify.app/",
     images: [activity1, activity2, activity3],
   },
