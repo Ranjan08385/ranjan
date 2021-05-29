@@ -71,6 +71,7 @@
   outline: none;
   border-radius: 10px;
   border: 1.5px solid #0e2431;
+  resize: none;
 }
 
 .contact__buttonSec {

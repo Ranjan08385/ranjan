@@ -111,9 +111,11 @@
 
   .about__me > h2 {
     text-align: left;
+    font-size: 28px;
   }
 
   .about__me > p {
     text-align: left;
+    font-size: 20px;
   }
 }
