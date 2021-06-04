@@ -45,19 +45,26 @@ const hulu3 = require("../../images/Hulu3.JPG");
 
 const projectData = [
   {
+    title: "Amazon Clone",
+    description:
+      "This application is developed by using Next JS and Tailwind CSS. The user can able to add items to the basket and signin with google functionality added by using next auth.",
+    link: "https://amazon-v2-vert.vercel.app/",
+    images: [ac1, ac2, ac3],
+  },
+  {
     title: "Hulu Clone",
     description:
       "This application is developed by using Next JS and Tailwind CSS. The user can able to browse list of movies and TV shows. Server side render is implemented also it is responsive for mobile and ipad.",
     link: "https://hulu-clone-lake.vercel.app/",
     images: [hulu1, hulu2, hulu3],
   },
-  {
-    title: "Resume Builder",
-    description:
-      "This application is developed by using MongoDB, Express, ReactJs and NodeJS (MERN). The user can able to create and update resume and also user authentication added. ",
-    link: "https://build-your-resume.netlify.app/",
-    images: [rb1, rb2, rb3],
-  },
+  // {
+  //   title: "Resume Builder",
+  //   description:
+  //     "This application is developed by using MongoDB, Express, ReactJs and NodeJS (MERN). The user can able to create and update resume and also user authentication added. ",
+  //   link: "https://build-your-resume.netlify.app/",
+  //   images: [rb1, rb2, rb3],
+  // },
   {
     title: "Activity Project",
     description:
@@ -66,25 +73,11 @@ const projectData = [
     images: [activity1, activity2, activity3],
   },
   {
-    title: "Amazon Clone",
-    description:
-      "This application is developed by using ReactJS library. The user can able to add items to the basket and able to make the payment.",
-    link: "https://clone-208f1.web.app/",
-    images: [ac1, ac2, ac3],
-  },
-  {
     title: "Money2India",
     description:
       "This project is done by using React Native Web Technology. It is actually a single base code project where we can build Web, android and iOS application by maintaining same code.",
     link: "https://money2india.icicibank.com/",
     images: [mi1, mi2, mi3],
-  },
-  {
-    title: "Clinic Directory",
-    description:
-      "This application is developed by using ReactJS library. Clinic directory will provide details about the hospital and doctors. The admin and privileged user can able to add/edit the clinical information.",
-    link: null,
-    images: [],
   },
 ];
 
